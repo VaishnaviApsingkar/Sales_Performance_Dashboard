@@ -4,7 +4,7 @@ An interactive Power BI dashboard designed to analyze sales, profit, and target 
 
 - Link to Power BI Report
 
-https://github.com/VaishnaviApsingkar/Sales_Performance_Dashboard/blob/main/Sales_Analysis_Report.pbix
+https://github.com/VaishnaviApsingkar/Sales_Performance_Dashboard/blob/main/Sales_Analysis_Report.pdf
 
 ---
 
